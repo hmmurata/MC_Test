@@ -11,10 +11,10 @@ __ sources
     |__ MC_InitialTest.ipynb    -> Initial test file for 100 events from test_100.csv file
     |__ MC_ChunkFiles.ipynb     -> Chunk large file into small files with 100 events from 1.Wfm.csv file
     |__ MC_Sanitization.ipynb   -> Clean events with error  from 1.Wfm.csv file
-    |__ MC_DataAnalisys.ipynb   -> Energy analisys from 1.Wfm.csv file
+    |__ MC_DataAnalisys.ipynb   -> Energy analysis from 1.Wfm.csv file
     |__ 2nd file-MC_InitialTest.ipynb   -> Initial test file for 100 events from (n+1).(n)k.csv files (1.1<n<=0.0)
     |__ 2nd file-MC_Sanitization.ipynb  -> Clean events with error from (n+1).(n)k.csv files (1.1<n<=0.0)
-    |__ 2nd file-MC_DataAnalisys.ipynb  -> Energy analisys from (n+1).(n)k.csv files (1.1<n<=0.0)
+    |__ 2nd file-MC_DataAnalisys.ipynb  -> Energy analysis from (n+1).(n)k.csv files (1.1<n<=0.0)
     |__ README.md               -> This file
 __ results
     |__ test_n.csv          -> with (n>=0)
